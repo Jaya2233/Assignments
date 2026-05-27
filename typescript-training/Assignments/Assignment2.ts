@@ -18,7 +18,7 @@ else if (income >=50000)
   if (dtiratio < 40) 
     {
     console.log("loan approved");
-  } 
+  }
   else ("loan rejected");
     }
     else ("loan rejected");
